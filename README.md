@@ -1,4 +1,4 @@
-# video ai but bad
+# llm-video-router
 
 ## Description
 This is a FastAPI application that accepts a video URL, downloads the video, extracts audio and frames, and uses two separate OAI-compatible APIs to generate descriptions for them.
